@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C658A9682B793F7A00581A18 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C69351612B75151B005D41B9 /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C69351642B75151B005D41B9 /* GuessTheFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagApp.swift; sourceTree = "<group>"; };
 		C69351662B75151B005D41B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 		C69351582B75151B005D41B9 = {
 			isa = PBXGroup;
 			children = (
+				C658A9682B793F7A00581A18 /* README.md */,
 				C69351632B75151B005D41B9 /* GuessTheFlag */,
 				C69351742B75151C005D41B9 /* GuessTheFlagTests */,
 				C693517E2B75151C005D41B9 /* GuessTheFlagUITests */,
